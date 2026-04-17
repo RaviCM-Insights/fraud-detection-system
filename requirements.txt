@@ -1,14 +1,5 @@
+streamlit
+scikit-learn
 pandas
 numpy
-matplotlib
-seaborn
-plotly
-scikit-learn
-xgboost
-imbalanced-learn
 joblib
-fastapi
-uvicorn
-streamlit
-scipy
-shap
